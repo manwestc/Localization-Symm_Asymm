@@ -1,0 +1,4 @@
+En esta carpeta se encuentran los datos respecto a la configuracion
+Be07,Be08,Be09 - Tx0x07
+Be10,Be11 - Tx0x04
+Para la zona 2 del primer artículo

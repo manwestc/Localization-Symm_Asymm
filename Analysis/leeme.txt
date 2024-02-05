@@ -1,0 +1,9 @@
+Estructura de la carpeta
+
+
+Mapas de Calor calculados:
+	Usando receptor:
+		- Celular (usando Beacons y Bluetooth)
+		- Raspberry (usando Beacons y Bluetooth)
+
+	nuevosManuelBeacons: La data usada para el calculo de los mapas de calor

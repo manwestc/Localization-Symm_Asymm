@@ -1,0 +1,1 @@
+Pruebas con celular de manuel y Bluetooth

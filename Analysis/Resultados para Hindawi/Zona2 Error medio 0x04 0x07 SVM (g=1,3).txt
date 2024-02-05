@@ -1,0 +1,112 @@
+Pot : 0x04
+
+GRADO LINEAL
+
+--- Be: 7,8,9,10,11
+Error Medio:1.9320
+
+
+--- Be: 8,9,10,11
+Error Medio:  2.1453
+
+
+--- Be: 7,9,10,11
+Error Medio: 1.9596
+
+
+--- Be: 7,8,10,11
+Error Medio: 2.0569
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 2.1185
+
+
+--- Be: 7,8,9,10
+Error Medio: 2.0863
+
+
+GRADO POL 3
+
+--- Be: 7,8,9,10,11
+Error Medio: 1.9884
+
+
+--- Be: 8,9,10,11
+Error Medio: 2.0987
+
+
+--- Be: 7,9,10,11
+Error Medio: 2.2053
+
+
+--- Be: 7,8,10,11
+Error Medio: 2.1371
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 2.1231
+
+
+--- Be: 7,8,9,10
+Error Medio:  2.0862
+
+
+===========================================================
+
+Pot : 0x07
+
+GRADO LINEAL
+
+--- Be: 7,8,9,10,11
+Error Medio: 2.3905
+
+
+--- Be: 8,9,10,11
+Error Medio: 2.3816
+
+
+--- Be: 7,9,10,11
+Error Medio: 2.5777
+
+
+--- Be: 7,8,10,11
+Error Medio: 2.3340
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 2.4734
+
+
+--- Be: 7,8,9,10
+Error Medio: 2.6469
+
+
+GRADO POL 3
+
+--- Be: 7,8,9,10,11
+Error Medio:  2.2813
+
+
+--- Be: 8,9,10,11
+Error Medio: 2.1929
+
+
+--- Be: 7,9,10,11
+Error Medio: 2.2873
+
+
+--- Be: 7,8,10,11
+Error Medio: 2.0911
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 2.3561
+
+
+--- Be: 7,8,9,10
+Error Medio: 2.3648

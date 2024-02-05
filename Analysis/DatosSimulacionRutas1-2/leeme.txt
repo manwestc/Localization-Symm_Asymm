@@ -1,0 +1,6 @@
+Carpeta que contiene el proceso de simulación de 2 recorridos de Beacons.
+Existe el script limpiarArchivos.sh, que maneja los archivos de lectura de raspberry y con ayuda de los archivos procesarDatos.cpp y armarRuta.py generan el archivo final con el que se trabajara luego bajo matlab la simulacion.
+
+Forma de usarlo
+./limpiarArchivos.sh ruta
+Genera en ruta un archivo 'final'

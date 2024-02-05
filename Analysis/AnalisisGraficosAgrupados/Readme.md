@@ -1,0 +1,1 @@
+En esta carpeta se guardan los gráficos, resultados del script de matlab sobre los archivos de lectura de Raspberry (nuevosManuelBeacons/raspberry)

@@ -1,0 +1,5 @@
+RASPBERRY
+Esta carpeta tiene todos los resultados respecto a las combinaciones de potencias trabajadas.
+
+En las carpetas Tx_0x0* se tiene las graficas obtenidas con el scripte prepareKriging.m que saca la media de las medidas capturada para cada beacon y grafica un mapa de calor de estas
+En las carpetas de 5 numeros indica la combinacion (nro de potencia de cada beacon) y en cada una de ellas esta el mapa de calor para cada potencia de beacon.

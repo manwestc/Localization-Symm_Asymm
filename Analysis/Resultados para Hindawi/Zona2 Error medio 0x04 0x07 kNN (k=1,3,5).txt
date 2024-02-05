@@ -1,0 +1,166 @@
+Pot : 0x04
+
+K=1
+
+--- Be: 7,8,9,10,11
+Error Medio:  2.2500
+
+
+--- Be: 8,9,10,11
+Error Medio: 2.3575
+
+
+--- Be: 7,9,10,11
+Error Medio:  2.2514
+
+
+--- Be: 7,8,10,11
+Error Medio: 2.3040
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 2.3211
+
+
+--- Be: 7,8,9,10
+Error Medio:  2.2881
+
+
+K=3
+
+--- Be: 7,8,9,10,11
+Error Medio: 1.9087
+
+
+--- Be: 8,9,10,11
+Error Medio: 2.0447
+
+
+--- Be: 7,9,10,11
+Error Medio: 1.8713
+
+
+--- Be: 7,8,10,11
+Error Medio: 1.9274
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 1.9989
+
+
+--- Be: 7,8,9,10
+Error Medio:  2.0048
+
+
+K=5
+
+--- Be: 7,8,9,10,11
+Error Medio:  1.8200
+
+
+--- Be: 8,9,10,11
+Error Medio: 1.9873
+
+
+--- Be: 7,9,10,11
+Error Medio: 1.8102
+
+
+--- Be: 7,8,10,11
+Error Medio: 1.8388
+
+
+
+--- Be: 7,8,9,11
+Error Medio:  1.9258
+
+
+--- Be: 7,8,9,10
+Error Medio:  1.9093
+
+
+===========================================================
+
+Pot : 0x07
+
+K=1
+
+--- Be: 7,8,9,10,11
+Error Medio: 2.2585
+
+
+--- Be: 8,9,10,11
+Error Medio: 2.3462
+
+
+--- Be: 7,9,10,11
+Error Medio:2.4050
+
+
+--- Be: 7,8,10,11
+Error Medio: 2.3210
+
+
+
+--- Be: 7,8,9,11
+Error Medio:  2.3837
+
+
+--- Be: 7,8,9,10
+Error Medio: 2.4102
+
+
+K=3
+
+--- Be: 7,8,9,10,11
+Error Medio: 2.0172
+
+
+--- Be: 8,9,10,11
+Error Medio: 2.0322
+
+
+--- Be: 7,9,10,11
+Error Medio: 2.1175
+
+
+--- Be: 7,8,10,11
+Error Medio: 1.9981
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 2.1564
+
+
+--- Be: 7,8,9,10
+Error Medio:  2.1238
+
+
+K=5
+
+--- Be: 7,8,9,10,11
+Error Medio: 1.9606
+
+
+--- Be: 8,9,10,11
+Error Medio: 1.9512
+
+
+--- Be: 7,9,10,11
+Error Medio: 2.0670
+
+
+--- Be: 7,8,10,11
+Error Medio: 1.8977
+
+
+
+--- Be: 7,8,9,11
+Error Medio: 2.1023
+
+
+--- Be: 7,8,9,10
+Error Medio:  2.0417
